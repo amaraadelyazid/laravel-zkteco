@@ -86,7 +86,7 @@
     "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/YOUR_USERNAME/laravel-zkteco"
+        "url": "https://github.com/amaraadelyazid/laravel-zkteco"
     }
 ]
 }
