@@ -9,4 +9,4 @@ phpstan.neon
 testbench.yaml
 vendor
 node_modules
-temp_interactive_push.bat
+config.bat
